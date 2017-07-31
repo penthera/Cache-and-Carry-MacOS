@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Autoparsed HLS Video</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>The Boy in the Plastic Bubble (Large HLS)</string>
+			<key>type</key>
+			<integer>0</integer>
+			<key>assetID</key>
+			<string>TBITPBHLS</string>
+			<key>description</key>
+			<string>The Boy in the Plastic Bubble (Large HLS)</string>
+			<key>protectionType</key>
+			<integer>0</integer>
+			<key>includeEncryptionKeys</key>
+			<true/>
+			<key>maximumBitrate</key>
+			<integer>-1</integer>
+			<key>downloadURL</key>
+			<string>http://hls-vbcp.s3.amazonaws.com/boy_in_bubble/prog_index.m3u8</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Return of the Kung Fu Dragon (Medium HLS)</string>
+			<key>type</key>
+			<integer>0</integer>
+			<key>assetID</key>
+			<string>ROTKFDHLS</string>
+			<key>description</key>
+			<string>Return of the Kung Fu Dragon (Medium HLS)</string>
+			<key>protectionType</key>
+			<integer>0</integer>
+			<key>includeEncryptionKeys</key>
+			<true/>
+			<key>maximumBitrate</key>
+			<integer>-1</integer>
+			<key>downloadURL</key>
+			<string>http://hls-vbcp.s3.amazonaws.com/dragon_ten_sec/prog_index.m3u8</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Night Club Stock Video (Small HLS)</string>
+			<key>type</key>
+			<integer>0</integer>
+			<key>assetID</key>
+			<string>NCSVHLS</string>
+			<key>description</key>
+			<string>Night Club Stock Video (Small HLS)</string>
+			<key>protectionType</key>
+			<integer>0</integer>
+			<key>includeEncryptionKeys</key>
+			<true/>
+			<key>maximumBitrate</key>
+			<integer>-1</integer>
+			<key>downloadURL</key>
+			<string>http://hls-vbcp.s3.amazonaws.com/night_club/prog_index.m3u8</string>
+		</dict>
+	</array>
+	<key>Single MP4 Files</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>The Boy In The Plastic Bubble MP4 (Large)</string>
+			<key>type</key>
+			<integer>2</integer>
+			<key>assetID</key>
+			<string>TBITPBMP4</string>
+			<key>description</key>
+			<string>The Boy In The Plastic Bubble MP4 (Large)</string>
+			<key>protectionType</key>
+			<integer>0</integer>
+			<key>downloadURL</key>
+			<string>http://hls-vbcp.s3.amazonaws.com/testmp4s/TheBoyInThePlasticBubble.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Return Of The Kung Fu Dragon MP4 (Medium)</string>
+			<key>type</key>
+			<integer>2</integer>
+			<key>assetID</key>
+			<string>ROTKFDMP4</string>
+			<key>description</key>
+			<string>Return Of The Kung Fu Dragon MP4 (Medium)</string>
+			<key>protectionType</key>
+			<integer>0</integer>
+			<key>downloadURL</key>
+			<string>http://hls-vbcp.s3.amazonaws.com/testmp4s/ReturnoftheKungFuDragon.mp4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Night Club Stock Video (Small)</string>
+			<key>type</key>
+			<integer>2</integer>
+			<key>assetID</key>
+			<string>NCSVMP4</string>
+			<key>description</key>
+			<string>Night Club Stock Video (Small)</string>
+			<key>protectionType</key>
+			<integer>0</integer>
+			<key>downloadURL</key>
+			<string>http://hls-vbcp.s3.amazonaws.com/testmp4s/NightClub.mp4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
